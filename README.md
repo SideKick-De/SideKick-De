@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SideKick-De
 - 👀 I’m interested in Programming
-- 🌱 I’m want learn more from .Net Core, MVC
+- 🌱 I’m want learn more from .Net Core, MVC, GitHub, Git...
 - 🌱 I have experience in C#.NET, VB.NET, Oracle etc.
 - 📫 How to reach me Karl@SideKick.de
 
